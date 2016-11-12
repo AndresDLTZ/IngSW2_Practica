@@ -30,6 +30,10 @@ package ejemploSumaResta;
  		case 4:
  			r=(a/b);
  			break;
+
+		case 5:
+ 			r= Math.pow(a, b);
+ 			break;
  			
  		default:
  			System.out.println("\n \t NO SE RECONOCE LA OPCION");
